@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Como usar
 - Abra o arquivo main.py em um editor.
-- Defina o caminho para o diretório que você deseja criptografar, substituindo ```directory_to_encrypt``` pela sua pasta desejada.
+- Defina o caminho para o diretório que você deseja criptografar, substituindo ```C:/Users/teste/Desktop``` em ```directory_to_encrypt``` pela sua pasta desejada.
 - Salve as alterações no arquivo.
 - Abra o prompt de comando (no Windows) ou o terminal (no Linux/Mac).
 - Navegue até o diretório onde o código está salvo.
